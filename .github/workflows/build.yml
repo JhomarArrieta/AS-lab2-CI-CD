@@ -112,5 +112,5 @@ jobs:
           #Set artifact name
           name: artifact
           #From this path
-          path: target/AS-lab2-0.0.1-SNAPSHOT.jar
+          path: target/lab2-0.0.1-SNAPSHOT.jar
 
